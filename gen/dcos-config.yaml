@@ -157,7 +157,6 @@ package:
         {dcos_net,
           [
             {dist_port, 62501},
-            {epmd_port, 61420},
             {enable_killer, false}
           ]
         },
