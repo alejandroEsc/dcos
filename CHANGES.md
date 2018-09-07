@@ -57,6 +57,8 @@ Format of the entries must be.
 
 * Get timestamp on dmesg, timedatectl, distro version, systemd unit status and pods endpoint in diagnostics bundle. (DCOS_OSS-3861)
 
+* DC/OS Net: Logging improvements (DCOS_OSS-3929)
+
 
 ### Security Updates
 
